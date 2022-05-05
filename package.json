@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/leadream/juuust-react-icon.git",
+  "repository": "https://github.com/gaao/zhb-react-icon.git",
   "author": "leadream",
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/leadream/juuust-react-icon/issues"
+    "url": "https://github.com/gaao/zhb-react-icon/issues"
   },
-  "homepage": "https://github.com/leadream/juuust-react-icon#readme",
+  "homepage": "https://github.com/gaao/zhb-react-icon#readme",
   "scripts": {
     "fetch": "node bin/fetchSVG.js",
     "generate": "sudo rm -rf src/icons && node bin/build.js",
